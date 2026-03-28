@@ -1,6 +1,4 @@
 
-create database android;
-
 use android;
 
 CREATE TABLE `heroes` (
